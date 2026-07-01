@@ -53,7 +53,7 @@ def load_data():
     return df
 
 
-st.title("🎵 Chinook Revenue Dashboard")
+st.title("Chinook Revenue Dashboard")
 
 try:
     data = load_data()
