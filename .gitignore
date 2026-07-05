@@ -1,3 +1,4 @@
 .env
 dotenv
 *.log
+app.py
